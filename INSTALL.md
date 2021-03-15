@@ -2,7 +2,7 @@
 
 #### Install
 
-1. Download the latest version of [`Omni.itermcolors`](https://github.com/demartini/iterm/releases/latest/download/Omni.itermcolors).
+1. Download the latest version of [`Omni.itermcolors`](https://github.com/getomni/iterm/releases/latest/download/Omni.itermcolors).
 2. Go to _`iTerm2 > Preferences > Profiles > Colors Tab`_.
 3. Open the _`Color Presets...`_ (drop-down in the bottom right corner).
 4. Select _`Import...`_ from the list.
